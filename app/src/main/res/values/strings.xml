@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MessageApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">LOVE MUSIC</string>
+    <string name="backdrop_subtitle">This season top 20 albums</string>
+
+
+
+    <string name="action_add">Add</string>
+    <string name="action_selected">Selected:-</string>
+    <string name="drawer_title_goodMorning">Good Morning</string>
+    <string name="drawer_title_goodNight">Good Night</string>
+    <string name="drawer_title_Motivational">Motivational</string>
+    <string name="drawer_title_goodBirthday">Birthday</string>
+    <string name="drawer_title_goodAnversary">Anversary</string>
+    <string name="drawer_title_goodCongrats">Congrats</string>
+
+</resources>

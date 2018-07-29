@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/morningSms"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Good Morning" />
+
+
+        <item
+            android:id="@+id/nightSms"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Good Night" />
+        <item
+            android:id="@+id/motivational"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Motivational" />
+        <item
+            android:id="@+id/birthday"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Birthday" />
+        <item
+            android:id="@+id/anversary"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Anversary" />
+        <item
+            android:id="@+id/congrats"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Congrats" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+</menu>
